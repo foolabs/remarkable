@@ -31,7 +31,8 @@ Gem::Specification.new do |s|
      "lib/remarkable/active_model/matchers/validate_length_of_matcher.rb",
      "lib/remarkable/active_model/matchers/validate_numericality_of_matcher.rb",
      "lib/remarkable/active_model/matchers/validate_presence_of_matcher.rb",
-     "locale/en.yml"
+     "locale/en.yml",
+     "remarkable_activemodel.gemspec"
   ]
   s.homepage = %q{http://github.com/carlosbrando/remarkable}
   s.rdoc_options = ["--charset=UTF-8"]
